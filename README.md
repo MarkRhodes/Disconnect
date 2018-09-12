@@ -3,7 +3,9 @@ Simple (unfinished!) Maze Game for js13k 2018
 
 Disconnect the machines before being caught!
 
-This is simple (relatively incomplete!) simultaneous random maze game.  Press Enter to start and use the Arrow keys to move.
+This is simple (relatively incomplete!) simultaneous turn-based random maze game.  
+
+Press Enter to start and use the Arrow keys to move.
 
 There are two kinds of baddies - 
 
